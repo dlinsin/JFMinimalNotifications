@@ -29,7 +29,7 @@
 #import "UIColor+JFMinimalNotificationColors.h"
 #import "NSInvocation+Constructors.h"
 
-static CGFloat const kNotificationViewHeight = 85.0f;
+static CGFloat const kNotificationViewHeight = 100.0f;
 static CGFloat const kNotificationTitleLabelHeight = 20.0f;
 static CGFloat const kNotificationPadding = 20.0f;
 static CGFloat const kNotificationAccessoryPadding = 10.0f;
